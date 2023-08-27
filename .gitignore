@@ -161,3 +161,4 @@ cython_debug/
 
 # additional python ignores
 .vscode/
+.idea
